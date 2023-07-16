@@ -1,4 +1,3 @@
-//var b=document.getElementById("blogTitleNew").innerHTML;
 var flag=0;
 var likee=0;
 function changeText()
